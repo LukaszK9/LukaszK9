@@ -6,6 +6,8 @@ jestem człowiekiem
 ![Static Badge](https://img.shields.io/badge/JavaScript-3776AB?style=flat&color=yellow)
 ![Static Badge](https://img.shields.io/badge/cpp-3776AB?style=flat&color=green)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaszK9&layout=compact)
+
 
 ## Statystyki
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaszK9&show_icons=true&theme=tokyonight)
